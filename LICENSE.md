@@ -1,4 +1,4 @@
-#  
+#  Enhance ClickUp for macOS with ClickUp for macOS secure Extension - task automation and tags, the #1 extension. Includes task automation and tags for a smoother experience.
 
 
 
